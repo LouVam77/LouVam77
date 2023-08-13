@@ -1,11 +1,11 @@
 <h1 align="center">Hola :), soy Melina Varòn</h1>
 <h3 align="center">Desarrolladora frontend apasionada de Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Phyton, Django y bases de datos**
+- 🌱 𝒜𝒸𝓉𝓊𝒶𝓁𝓂𝑒𝓃𝓉𝑒 𝑒𝓈𝓉𝑜𝓎 𝒶𝓅𝓇𝑒𝓃𝒹𝒾𝑒𝓃𝒹𝑜 **Phyton, Django y bases de datos**
 
-- 💬 Pregúntame sobre **Angular, Scss, TypeScrip, Firebase...**
+- 💬 𝒫𝓇𝑒𝑔𝓊𝓃𝓉𝒶𝓂𝑒 𝓈𝑜𝒷𝓇𝑒 **Angular, Scss, TypeScrip, Firebase...**
 
-- 📫 Contactame a **louvarondev@gmail.com** 🐫 ⋆ 🕊  🎀  𝒜𝒸𝓉𝓊𝒶𝓁𝓂𝑒𝓃𝓉𝑒 𝑒𝓈𝓉💮𝓎 𝒶𝓅𝓇𝑒𝓃𝒹𝒾𝑒𝓃𝒹🍩  🎀  🕊 ⋆ 🐫
+- 📫 𝒞𝑜𝓃𝓉𝒶𝒸𝓉𝒶𝓂𝑒 𝒶 **louvarondev@gmail.com**
 
 <h3 align="left">Conéctate con yo:</h3>
 <p align="left">
