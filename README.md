@@ -9,7 +9,7 @@
 
 <h3 align="left">Conéctate tambièn a:</h3>
 <p align="left">
-<a href="https://discord.gg/loume77" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="loume77" height="30" width="40" /></a>
+<a href="https://discord.gg/loume77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="loume77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
